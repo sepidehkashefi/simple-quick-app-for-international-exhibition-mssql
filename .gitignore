@@ -1,0 +1,8 @@
+/node_modules
+/.vscode
+/tempUpload
+/upload
+/index.html
+/fileManager
+/privateFile
+/yarn.lock
